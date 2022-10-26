@@ -1,0 +1,12 @@
+.Bs {
+    position: relative;
+    border-spacing: 0;
+    padding: 0;
+    border-collapse: collapse;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
